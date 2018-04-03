@@ -1,0 +1,1 @@
+This javaPractice has small programs for every feature of java
